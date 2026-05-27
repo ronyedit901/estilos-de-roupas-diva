@@ -1,0 +1,12 @@
+# Arquivos para subir no GitHub / Vercel
+
+Suba estes arquivos na raiz do seu projeto atual da Vercel:
+
+- estilos-de-roupas-femininas/index.html
+- sitemap.xml
+- robots.txt
+
+A página do artigo ficará em:
+https://calendario-diva-magnetica.vercel.app/estilos-de-roupas-femininas
+
+Depois de subir, entre no Google Search Console e solicite indexação dessa URL.
